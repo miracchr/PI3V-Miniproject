@@ -1,6 +1,7 @@
 # PI3V-Miniproject
 
 ### Gif of Gameplay
+
 ![Visual](https://github.com/miracchr/PI3V-Miniproject/tree/main/GamePlayGif/ezgif.com-video-to-gif.gif)
 
 ### Overview of the Game:
