@@ -2,7 +2,7 @@
 
 ### Gif of Gameplay
 
-![Visual](https://github.com/miracchr/PI3V-Miniproject/tree/main/GamePlayGif/ezgif.com-video-to-gif.gif)
+![Visual](https://github.com/miracchr/PI3V-Miniproject/blob/main/GamePlayGif/ezgif.com-video-to-gif.gif)
 
 ### Overview of the Game:
 The project is inspired by the game and HBO series The Last of Us but made as a first-person shooter game. The player walks around in an enclosed wasteland surrounding using keyboard controls, while being able to look around with the camera following the curser of the mouse. The goal of the game is to shoot as many infected as possible without getting infected yourself. The genre of the game is a first-person shooter game.
